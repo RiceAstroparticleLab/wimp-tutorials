@@ -18,7 +18,9 @@ If you're looking to utilize (or better yet, contribute to) basic to advanced tu
 <br>
 So you're ready to begin! You can clone, branch and PR with your improvements, and help turn this into something great!
 ...Or if you want to just start on a remote machine to ease the computational learning curve, you can do that too! 
-Check out our [mybinder tutorial](TBD.
+Check out our
+[binder](https://mybinder.org/v2/gh/sophiaandaloro/tutorials/HEAD)
+.
 (no installation, not even python, NOTHING needed!)
 
 ## Why we need you
